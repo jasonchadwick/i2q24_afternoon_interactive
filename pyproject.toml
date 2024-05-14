@@ -1,9 +1,10 @@
 [tool.poetry]
-name = "i2q24-afternoon-interactive"
+name = "i2q-24-interactive"
 version = "0.1.0"
 description = ""
 authors = ["Jason Chadwick <jchadwick100@gmail.com>"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.12"
